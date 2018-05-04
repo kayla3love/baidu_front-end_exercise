@@ -1,0 +1,39 @@
+#mainBody{
+    margin-left: 15%;
+    margin-right: 15%;
+    border: #CCCCCC solid thin ;
+}
+#title{
+    background: #888888;
+}
+#title h1{
+    margin: 0 0 2px 0;
+    padding: 20px 0 20px 50px;
+}
+.item_title,.module{
+    display: inline-block;
+    height: 125px;
+    vertical-align: top;
+    margin-bottom: 2px;
+}
+.item_title{
+    width:20%;
+    background: #CCCCCC;
+}
+.module{
+    width:75%;
+    padding-left: 5px;
+    border-bottom: #CCCCCC thin solid;
+}
+.item_title h2{
+    margin-top: 25%;
+    margin-left: 50px;
+}
+p.inner_module{
+    display: inline;
+    margin-right: 20px;
+}
+.inner_module_long{
+    line-height: 10px;
+    margin-bottom: 30px;
+}

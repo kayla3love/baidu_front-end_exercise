@@ -1,0 +1,33 @@
+#mainBody{
+    margin-left: 22%;
+    margin-right: 22%;
+    border: #FF6666 thin solid;
+    position: relative;
+    height: 800px;
+}
+.pageModule{
+    display: inline-block;
+    vertical-align: top;
+    height:100%;
+}
+#title{
+    text-align: center;
+    width: 20%;
+    color: white;
+    background: #FF6666;
+}
+#title h1{
+   margin-top: 10%;
+}
+#page{
+    width: 75%;
+    padding-left: 10px;
+}
+p.inner_module{
+    display: inline;
+    margin-right: 20px;
+}
+.inner_module_long{
+    line-height: 10px;
+    margin-bottom: 30px;
+}
