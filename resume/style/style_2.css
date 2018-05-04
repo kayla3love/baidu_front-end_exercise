@@ -5,6 +5,11 @@
     position: relative;
     height: 800px;
 }
+#changeModeButton{
+    position: relative;
+    top: 25px;
+    left: 80%;
+}
 .pageModule{
     display: inline-block;
     vertical-align: top;

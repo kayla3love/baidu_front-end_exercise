@@ -3,6 +3,11 @@
     margin-right: 15%;
     border: #CCCCCC solid thin ;
 }
+#changeModeButton{
+    position: relative;
+    top: 25px;
+    left: 80%;
+}
 #title{
     background: #888888;
 }

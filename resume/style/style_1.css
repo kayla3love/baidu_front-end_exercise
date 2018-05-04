@@ -4,6 +4,11 @@
     border: gray thin solid;
     padding:10px;
 }
+#changeModeButton{
+    position: relative;
+    top: 25px;
+    left: 80%;
+}
 p.inner_module{
     display: inline;
     margin-right: 20px;
