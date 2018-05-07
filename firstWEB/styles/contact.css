@@ -1,0 +1,93 @@
+#contact1{
+    margin-top: 60px;
+    margin-bottom:60px;
+    text-align: center;
+}
+.contact_column{
+    display:inline-block;
+    vertical-align: top;
+    width:470px;
+    margin:10px;
+}
+#contact_form{
+    border: 1px solid rgba(20, 20, 20, 0.1);
+    background-color: white;
+    text-align: center;
+    height:600px;
+}
+#contact_form p{
+    font-size: 16px;
+    font-family: "Montserrat";
+    color: rgb(20, 20, 20);
+    text-transform: uppercase;
+    line-height: 2;
+    text-align: center;
+    margin-top: 45px;
+    margin-bottom: 45px;
+}
+#contact_form textarea,.contact_input{
+    font-size: 14px;
+    font-family: "Montserrat";
+    color: rgba(20, 20, 20, 0.502);
+    line-height: 1.857;
+    text-align: left;
+    width:360px;
+    padding-left: 10px;
+    margin-bottom: 25px;
+}
+#contact_form  textarea{
+    height: 150px;
+}
+.contact_input{
+    height: 50px;
+}
+#send{
+    height: 50px;
+    width:380px;
+    color:white;
+    background-color: black;
+    text-align: center;
+    border:none;
+}
+#contact_innerBox{
+    margin-top: 80px;
+    margin-left: 80px;
+    margin-right: 20px;
+    text-align: left;
+}
+#contact_title{
+    font-size: 42px;
+    font-family: "Montserrat";
+    color: rgb(20, 20, 20);
+    line-height: 1.238;
+    text-align: left;
+}
+#contact_content{
+    font-size: 16px;
+    font-family: "Montserrat";
+    color: rgba(20, 20, 20, 0.702);
+    line-height: 1.625;
+}
+#contact_methods{
+    margin-top: 60px;
+}
+.contact_method{
+    margin-bottom:25px;
+}
+.contact_logo,.contactLogo_content{
+    display:inline-block;
+    vertical-align: top;
+}
+.contactLogo_content,.contactLogo_content p{
+    margin:0;
+    font-size: 16px;
+    font-family: "Montserrat";
+    color: rgb(20, 20, 20);
+    line-height: 1.625;
+    text-align: left;
+}
+.contactLogo_content{
+    padding-left: 10px;
+}
+
+

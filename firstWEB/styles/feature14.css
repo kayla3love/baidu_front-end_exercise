@@ -1,0 +1,33 @@
+#feature14{
+    text-align: center;
+    border-bottom: 1px solid rgba(20, 20, 20, 0.2);
+}
+.feature14_box{
+    padding-top: 85px;
+}
+.feature14_img{
+    display:inline-block;
+}
+.feature14_text{
+    display:inline-block;
+    width: 320px;//305
+    text-align: left;
+    vertical-align: top;
+}
+.feature14_title{
+    margin-top: 60px;
+    line-height: 1.6;
+    text-align: left;
+}
+.feature14_content{
+    margin-bottom:60px;
+    text-align: left;
+}
+#lastBox{
+    padding-top:60px;
+    padding-bottom: 85px;
+}
+.changeMargin{
+    margin-right: 60px;
+}
+

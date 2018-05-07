@@ -1,0 +1,79 @@
+body{
+    margin: 0;
+}
+#header{
+    background-image: url('../header/Background.png');
+    text-align: center;
+    width:100%;
+    color: white;
+}
+#title{
+    font-size: 62px;
+    font-family: "Montserrat";
+    line-height: 1.161;
+    padding-top:130px;
+    margin:0 0;
+    padding-bottom: 80px;
+}
+#introduction {
+    font-size: 20px;
+    color: rgba(255, 255, 255, 0.702);
+    font-family: "Myriad Pro";
+    line-height: 1.6;
+    margin-left: 23.5%;
+    margin-right: 23.5%;
+}
+#Placeholder {
+     border: 1px rgba(255, 255, 255, 0.302) solid;
+     margin-top:80px;
+     margin-bottom: 150px;
+     border-radius: 2px;
+     width: 950px;
+     height: 240px;
+     display: inline-block;
+ }
+#formTitle {
+    font-size: 16px;
+    font-family: "Montserrat";
+    text-transform: uppercase;
+    line-height: 1.75;
+    margin-top: 50px;
+    margin-bottom: 0;
+}
+#formContent{
+    font-size: 12px;
+    color: rgba(255, 255, 255, 0.302);
+    text-transform: uppercase;
+    line-height: 1.2;
+    margin-top: 10px;
+    margin-bottom: 0;
+}
+#formDetail{
+    margin-top: 40px;
+}
+.inputView{
+    border: 1px solid rgba(255, 255, 255, 0.302);
+    color: white;
+    padding-left: 10px;
+    border-radius: 2px;
+    width: 290px;
+    height: 48px;
+    background-color: transparent;
+    margin-right: 10px;
+}
+.inputView:focus {
+    outline:none;
+}
+#signUp_button{
+    border-radius: 2px;
+    background-color: rgb(255, 255, 255);
+    width: 125px;
+    height: 50px;
+    border: none;
+}
+
+
+
+
+
+

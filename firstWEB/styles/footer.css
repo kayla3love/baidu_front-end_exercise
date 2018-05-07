@@ -1,0 +1,31 @@
+#footer{
+    background-color: rgb(20, 20, 20);
+    height: 340px;
+    text-align: center;
+}
+.menu{
+    display: inline-block;
+    font-size: 16px;
+    font-family: "Montserrat";
+    color: rgba(255, 255, 255, 0.302);
+    line-height: 2;
+    text-align: left;
+    padding-top:50px;
+    padding-right: 30px;
+    width:260px;
+    vertical-align: top;
+}
+.menu_title{
+    font-size: 14px;
+    font-family: "Montserrat";
+    color: rgb(255, 255, 255);
+    text-transform: uppercase;
+    line-height: 2;
+    text-align: left;
+}
+.menu a{
+    display:block;
+}
+#socials img{
+    margin-right: 15px;
+}

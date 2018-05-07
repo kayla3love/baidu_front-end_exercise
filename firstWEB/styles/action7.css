@@ -1,0 +1,58 @@
+#action7{
+    background-image: url('../action7/Background.png');
+    color:white;
+}
+#action7_body{
+    margin-left: 12%;
+    margin-right: 58%;
+    padding-top: 120px;
+}
+#action7_buttonGroup{
+    margin-left: 12%;
+    padding-bottom: 160px;
+}
+#action7_title{
+    font-size: 42px;
+    font-family: "Montserrat";
+    line-height: 1.238;
+    text-align: left;
+}
+#action7_content{
+    font-size: 18px;
+    font-family: "Montserrat";
+    line-height: 1.556;
+    text-align: left;
+    margin-top:0;
+    margin-bottom: 80px;
+    color: rgba(255, 255, 255, 0.702);
+}
+.action7_button{
+    display:inline-block;
+    font-size: 12px;
+    font-family: "Montserrat";
+    color: white;
+    background-color: transparent;
+    text-transform: uppercase;
+    line-height: 1.2;
+    text-align: center;
+    border: 1px solid rgba(255, 255, 255, 0.302);
+    border-radius: 2px;
+    width: 240px;
+    height: 60px;
+    margin-right: 20px;
+}
+.action7_button:hover{
+    background-color: white;
+    color: rgb(20, 20, 20);
+}
+.action7_button:focus{
+    outline: 0;
+}
+#imageBox{
+    float:right;
+    margin: 70px 0 70px 0;
+}
+#innerImg{
+    margin:30px 0px 30px -588px;
+}
+
