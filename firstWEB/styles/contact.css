@@ -41,6 +41,12 @@
 .contact_input{
     height: 50px;
 }
+.contact_input:focus{
+    outline:none;
+}
+#contact_form textarea:focus{
+    outline:none;
+}
 #send{
     height: 50px;
     width:380px;
